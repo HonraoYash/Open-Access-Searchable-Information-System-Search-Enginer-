@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local/generated runtime artifacts
+data/index_cache.pkl
+data/*.pkl
+data/*.pkl.gz
+
+# Archive dataset should not be pushed
+.archive/datasets/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
