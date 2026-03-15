@@ -226,7 +226,7 @@ st.markdown(
 
 st.markdown("<div class='google-title'>OASIS Search</div>", unsafe_allow_html=True)
 st.markdown(
-    "<div class='search-note'>Open Access Searchable Information System is a Search Engine is for searching the Enron Email Dataset</div>",
+    "<div class='search-note'>Open Access Searchable Information System is a Search Engine for searching the Enron Email Dataset</div>",
     unsafe_allow_html=True,
 )
 
