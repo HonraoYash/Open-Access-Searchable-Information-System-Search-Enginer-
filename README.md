@@ -1,6 +1,6 @@
 # OASIS: Open Access Searchable Information System
 
-This project is built to demonstrate how modern and classical search/ranking methods work in a practical application.
+OASIS is a Search Engine and is built to demonstrate how modern and classical search/ranking methods work in a practical application.
 
 It combines:
 
